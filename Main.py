@@ -1,6 +1,5 @@
 from typing import Optional
 
-
 class Node:
     """
     Provide necessary documentation
